@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AulaCicloDeVida</string>
+    <string name="casdasro_name">Digite o nome</string>
+    <string name="casdastro_email">Digite o email</string>
+    <string name="cadastro_telefone">Digite o telefone</string>
+    <string name="botao_salvar">Salvar</string>
+</resources>
